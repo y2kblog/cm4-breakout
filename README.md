@@ -57,6 +57,6 @@
 
 ### CADデータ  
 - [3Dモデル閲覧（Sketchfab）](https://sketchfab.com/3d-models/compute-module-4-d572bb45e5c640a3b7a9f27cdea6d00b)  
-- DXFファイルダウンロード：<a href="https://github.com/y2kblog/grove-i2c-ext-mod/raw/master/resources/dimensional_drawing_dxf.zip" download="">dimensional_drawing_dxf.zip</a>  
-- STEPファイルダウンロード：<a href="https://github.com/y2kblog/grove-i2c-ext-mod/raw/master/resources/3d_model_step.zip" download="">3d_model_step.zip</a>  
-- Compute Module 4組立後図面 STEPファイルダウンロード：<a href="https://github.com/y2kblog/grove-i2c-ext-mod/raw/master/resources/cm4-breakout-connection_step.zip" download="">cm4-breakout-connection_step.zip</a>  
+- DXFファイルダウンロード：<a href="https://github.com/y2kblog/cm4-breakout/raw/main/resources/dimensional_drawing_dxf.zip" download="">dimensional_drawing_dxf.zip</a>  
+- STEPファイルダウンロード：<a href="https://github.com/y2kblog/cm4-breakout/raw/main/resources/3d_model_step.zip" download="">3d_model_step.zip</a>  
+- Compute Module 4組立後図面 STEPファイルダウンロード：<a href="https://github.com/y2kblog/cm4-breakout/raw/main/resources/cm4-breakout-connection_step.zip" download="">cm4-breakout-connection_step.zip</a>  
