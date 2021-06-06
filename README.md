@@ -45,7 +45,7 @@
 以下のようにCompute Module 4と変換基板を固定してください。  
 <img src="/img/cm4-breakout-connection-side.jpg" width="350px">  
 
-組立完了後イメージ
+組立完了後イメージ  
 <img src="/img/connection.jpg" width="300px">  
 ※Compute Module 4の双方のコネクタに接続する場合、2台のピッチ変換基板が必要です。
 
