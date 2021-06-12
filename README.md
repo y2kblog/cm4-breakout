@@ -6,7 +6,7 @@
 
 組み込み用途向けRaspberry Pi 4の「[Compute Module 4](https://www.raspberrypi.org/products/compute-module-4/)」のコネクタ(100ピン)を2.54mmピッチの2行×25列×2に変換する基板です。
 
-<img src="/img/pcb-both-side.png" width="250px">
+<img src="/img/pcb-both-side.png" height="300px">
 
 
 <!--
@@ -24,11 +24,10 @@
 - 基板色：緑
 - 表面仕上げ：無鉛はんだ
 
-<!--
+
 ## 販売  
-[スイッチサイエンス委託販売ページ](https://www.switch-science.com/catalog/xxxx/)  
+[スイッチサイエンス委託販売ページ](https://www.switch-science.com/catalog/7252/)  
 ※大量注文や在庫に関する問い合わせは[こちら](mailto:info.y2kb@gmail.com)までご連絡ください。  
--->
 
 ## 内容物
 - 変換基板本体×1
